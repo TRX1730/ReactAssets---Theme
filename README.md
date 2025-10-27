@@ -1,14 +1,4 @@
 ```markdown
-# 🎨 React Theme Switcher - Dla Każdego!
-
-**Najprostszy sposób na ciemny/jasny motyw w React! Kliknij przycisk i działa!**
-
-![Demo](https://img.shields.io/badge/DZIAŁA-100%25-brightgreen)
-![Proste](https://img.shields.io/badge/DLA_DEBIŁA-✓-success)
-
-## 📦 Co To Jest?
-To są 4 pliki które dodają przycisk do zmiany motywu (ciemny/jasny) w Twojej aplikacji React.
-
 ## 🚀 Szybki Start (3 kroki)
 
 ### Krok 1: Pobierz pliki
