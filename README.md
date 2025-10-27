@@ -1,4 +1,4 @@
-```markdown
+
 ## 🚀 Szybki Start (3 kroki)
 
 ### Krok 1: Pobierz pliki
