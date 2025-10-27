@@ -1,31 +1,19 @@
 {
-  "name": "theme-change",
-
+  "name": "react-theme-switcher",
+  "private": true,
   "version": "1.0.0",
-  "description": "Simple theme switcher for React applications",
-  "main": "src/index.js",
+  "type": "module",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
-  "keywords": ["react", "theme", "dark-mode", "switcher"],
-  "author": "Maciej Rogala-Sternik",
-  "license": "MIT",
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1"
+    "react-dom": "^18.2.0"
   },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.3",
+    "vite": "^4.4.5"
   }
 }
